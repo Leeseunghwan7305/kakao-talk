@@ -1,0 +1,7 @@
+.user-component__column--left {
+  display: block;
+  padding: 15px;
+}
+.user-component__time {
+  margin: 10px 0px;
+}
